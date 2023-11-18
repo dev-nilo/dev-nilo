@@ -21,5 +21,5 @@
   <img align="center" alt="React-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="SQL-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
 </div>
-9
+
 {snake_gif}(https://github.com/dev-nilo/dev-nilo/blob/output/github-contribution-grid-snake.svg)
