@@ -13,5 +13,5 @@
 </div>
 <br>
 <div style="display: inline-block">
-  <img align="center" alt="JS-Nilo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="JS-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
