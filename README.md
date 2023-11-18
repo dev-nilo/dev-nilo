@@ -11,3 +11,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nilo&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
+<br>
+<div style="display: inline-block">
+  <img align="center" alt="JS-Nilo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
