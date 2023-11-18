@@ -2,7 +2,7 @@
 
 - 🔭 Today I work with SQL and AdvPL, a TOTVS Protheus internal language. It's inspired on Clipper;
 - 🌱 I’m learning Tailwind, Typescript, React;
-- 🔥 Fun fact: I'm a Brazilian Firefighter
+- 🔥 Fun fact: I'm a Brazilian Firefighter.
 
 
 <div>
