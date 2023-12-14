@@ -1,9 +1,18 @@
 ### Hi, I`m Nilo Venturin
 
-- 🔭 Today I work with SQL and AdvPL, a TOTVS Protheus internal language. It's inspired on Clipper;
-- 🌱 I’m learning Tailwind, Typescript, React;
-- 🔥 Interesting fact: I'm a Brazilian Firefighter.
+<p align="left">
+I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and <strong>UX/UI Designer</strong>.<br />
+</p>
 
+<p align="left">
+  🏆  Skills: <strong>Figma, Photoshop, Bootstrap, JQuery, SQL, AdvPL</strong><br />
+  📚  Learning: <strong>Node JS, ReactJS, React Native, Premiere, AfterEffects</strong>.
+</p>
+
+<p align="left">
+  💼 I work with SQL and AdvPL, a TOTVS Protheus internal language. It's inspired on Clipper;
+  🔥 Interesting fact: I'm also a Brazilian Military Firefighter.
+</p>
 
 <div>
   <a href="https://www.github.com/dev-nilo">
