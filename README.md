@@ -6,7 +6,7 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and
 
 <p align="left">
   🏆  Skills: <strong>Figma, Photoshop, Bootstrap, JQuery, SQL, AdvPL</strong><br />
-  📚  Learning: <strong>Node JS, ReactJS, React Native, Premiere, AfterEffects</strong>.
+  📚  Learning: <strong>Node JS, TypeScript, ReactJS, React Native, Premiere, AfterEffects</strong>.
 </p>
 
 <p align="left">
@@ -23,6 +23,8 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and
 <br>
 <div style="display: inline-block">
   <img align="center" alt="Figma-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="AE-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="AE-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
   <img align="center" alt="html-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="bootstrap-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />       
@@ -30,5 +32,5 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and
   <img align="center" alt="JS-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="TS-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="React-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="SQL-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
+  <img align="center" alt="SQL-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
