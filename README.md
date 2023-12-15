@@ -6,7 +6,7 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and
 
 <p align="left">
   🏆  Skills: <strong>Figma, Photoshop, Bootstrap, JQuery, SQL, AdvPL</strong><br />
-  📚  Learning: <strong>Node JS, TypeScript, ReactJS, React Native, Premiere, AfterEffects</strong>.
+  📚  Learning: <strong>NodeJS, TypeScript, ReactJS, React Native, Premiere, AfterEffects</strong>.
 </p>
 
 <p align="left">
