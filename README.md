@@ -1,7 +1,7 @@
 ### Hi, I`m Nilo Venturin
 
 <p align="left">
-I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and <strong>UX/UI Designer</strong>.<br />
+I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and <strong>Software Designer</strong>.<br />
 </p>
 
 <p align="left">
