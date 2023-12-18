@@ -16,7 +16,6 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and
 
 <div>
   <a href="https://www.github.com/dev-nilo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-nilo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nilo&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
