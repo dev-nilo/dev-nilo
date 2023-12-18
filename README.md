@@ -6,7 +6,7 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and
 
 <p align="left">
   🏆  Skills: <strong>Figma, Photoshop, Bootstrap, SASS, JQuery, SQL, AdvPL</strong><br />
-  📚  Learning: <strong>TailwindCSS, NodeJS, TypeScript, ReactJS, React Native, Premiere, AfterEffects</strong>.
+  📚  Learning: <strong>TailwindCSS, NodeJS, TypeScript, ReactJS, React Native, Premiere</strong>.
 </p>
 
 <p align="left">
@@ -23,8 +23,8 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and
 <br>
 <div style="display: inline-block">
   <img align="center" alt="Figma-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="AE-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="AE-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+  <img align="center" alt="AE-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
+  <img align="center" alt="AE-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premiere/premiere-original.svg" />
   <img align="center" alt="html-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="bootstrap-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />       
