@@ -1,4 +1,4 @@
-### Hi, I`m Nilo Venturin
+### Hi, I'm Nilo Venturin
 
 <p align="left">
 I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and <strong>Software Designer</strong>.<br />
@@ -11,7 +11,7 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and
 
 <p align="left">
   💼 I work with SQL and AdvPL, a TOTVS Protheus internal language. It's inspired on Clipper; <br />
-  🔥 Interesting fact: I'm also a Brazilian Military Firefighter.
+  🔥 Fun fact: I'm also a Brazilian Military Firefighter.
 </p>
 
 <div>
