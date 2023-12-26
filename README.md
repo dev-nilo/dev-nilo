@@ -10,7 +10,7 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and
 </p>
 
 <p align="left">
-  💼 I work with SQL and AdvPL, a TOTVS Protheus internal language. It's inspired on Clipper; <br />
+  💼 I work with SQL and AdvPL (it's a TOTVS Protheus internal language). It's inspired on Clipper; <br />
   🔥 Fun fact: I'm also a Brazilian Military Firefighter.
 </p>
 
