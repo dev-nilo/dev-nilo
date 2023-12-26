@@ -5,8 +5,8 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong> and
 </p>
 
 <p align="left">
-  🏆  Skills: <strong>Figma, Photoshop, Bootstrap, SASS, JQuery, SQL, AdvPL</strong><br />
-  📚  Learning: <strong>TailwindCSS, NodeJS, TypeScript, ReactJS, React Native, Premiere</strong>.
+  🏆  Skills: <strong>Figma, Photoshop, Bootstrap, JQuery, SQL, AdvPL</strong><br />
+  📚  Learning: <strong>vscode-styled-components, TailwindCSS, NodeJS, TypeScript, ReactJS, React Native, Premiere</strong>.
 </p>
 
 <p align="left">
