@@ -5,7 +5,7 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong>.<br
 </p>
 
 <p align="left">
-  🏆  Skills: <strong>React, Vite, TailwindsCSS, Figma, Photoshop, SQL, AdvPL</strong><br />
+  🏆  Skills: <strong>JavaScript, React, Vite, TailwindsCSS, Figma, Photoshop, SQL, AdvPL</strong><br />
   📚  Learning: <strong>Node.js, TypeScript, React Native, Next.js</strong><br />
   👴  Legacy Skills: Bootstrap, JQuery
 </p>
