@@ -5,13 +5,27 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong>.<br
 </p>
 
 <p align="left">
-  🏆  Skills: <strong>JavaScript, React, Vite, TailwindsCSS, Figma, Photoshop, SQL, AdvPL</strong><br />
+  🏆  Skills: 
+  <strong>
+    > Frameworks & Libraries: ReactJS, Next.js, Wordpress
+    > Languages: Typescript, Javascript
+    > Build Tools & Bundlers: Vite, Webpack
+    > APIs: REST
+    > Databases: MySQL, PostgreSQL
+    > CI/CD: Github Actions, Vercel
+    > Cloud: AWS
+    > Forms & Validation: React Hook Form
+    > UI & Styling Frameworks: Tailwind, Shadcn UI
+    > Testing: Jest
+    > Deployment: Vercel
+    > Design & Prototype: Figma, Photoshop, Illustrator
+  </strong><br />
   📚  Learning: <strong>Node.js, TypeScript, React Native, Next.js</strong><br />
   👴  Legacy Skills: Bootstrap, JQuery
 </p>
 
 <p align="left">
-  💼 I work with SQL and AdvPL (it's a TOTVS Protheus internal language). It's inspired on Clipper; <br />
+  💼 I work as System Analyst with Next.js in the company, moreover, SQL and AdvPL (it's an ERP TOTVS Protheus internal language inspired on Clipper); <br />
   🔥 Fun fact: I'm also a Brazilian Military Firefighter.
 </p>
 
