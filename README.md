@@ -20,7 +20,13 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong>.<br
     > Deployment: Vercel<br />
     > Design & Prototype: Figma, Photoshop, Illustrator<br />
   </strong><br />
-  📚  Learning: <strong>Node.js, TypeScript, React Native, Next.js</strong><br />
+  📚  Learning:
+  <strong><br />
+    > Node.js<br />
+    > TypeScript<br />
+    > React Native<br />
+    > Next.js<br />
+  </strong><br />
   👴  Legacy Skills: Bootstrap, JQuery
 </p>
 
