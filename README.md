@@ -6,19 +6,19 @@ I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong>.<br
 
 <p align="left">
   🏆  Skills: 
-  <strong>
-    > Frameworks & Libraries: ReactJS, Next.js, Wordpress
-    > Languages: Typescript, Javascript
-    > Build Tools & Bundlers: Vite, Webpack
-    > APIs: REST
-    > Databases: MySQL, PostgreSQL
-    > CI/CD: Github Actions, Vercel
-    > Cloud: AWS
-    > Forms & Validation: React Hook Form
-    > UI & Styling Frameworks: Tailwind, Shadcn UI
-    > Testing: Jest
-    > Deployment: Vercel
-    > Design & Prototype: Figma, Photoshop, Illustrator
+  <strong><br />
+    > Frameworks & Libraries: ReactJS, Next.js, Wordpress<br />
+    > Languages: Typescript, Javascript<br />
+    > Build Tools & Bundlers: Vite, Webpack<br />
+    > APIs: REST<br />
+    > Databases: MySQL, PostgreSQL<br />
+    > CI/CD: Github Actions, Vercel<br />
+    > Cloud: AWS<br />
+    > Forms & Validation: React Hook Form<br />
+    > UI & Styling Frameworks: Tailwind, Shadcn UI<br />
+    > Testing: Jest<br />
+    > Deployment: Vercel<br />
+    > Design & Prototype: Figma, Photoshop, Illustrator<br />
   </strong><br />
   📚  Learning: <strong>Node.js, TypeScript, React Native, Next.js</strong><br />
   👴  Legacy Skills: Bootstrap, JQuery
