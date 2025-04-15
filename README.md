@@ -1,53 +1,76 @@
-### Hi, I'm Nilo Venturin
+<h1 align="center">Hi, I'm Nilo Venturin 👋</h1>
 
-<p align="left">
-I am a <strong>System Analyst</strong>, <strong>Front-end Developer</strong>.<br />
+<p align="center">
+  💻 System Analyst · 🧠 Front-end Developer · 🚒 Brazilian Military Firefighter
 </p>
 
-<p align="left">
-  🏆  Skills: 
-  <strong><br />
-    > Frameworks & Libraries: ReactJS, Next.js, Wordpress<br />
-    > Languages: Typescript, Javascript<br />
-    > Build Tools & Bundlers: Vite, Webpack<br />
-    > APIs: REST<br />
-    > Databases: MySQL, PostgreSQL<br />
-    > CI/CD: Github Actions, Vercel<br />
-    > Cloud: AWS<br />
-    > Forms & Validation: React Hook Form<br />
-    > UI & Styling Frameworks: Tailwind, Shadcn UI<br />
-    > Testing: Jest<br />
-    > Deployment: Vercel<br />
-    > Design & Prototype: Figma, Photoshop, Illustrator<br />
-  </strong><br />
-  📚  Learning:
-  <strong><br />
-    > Node.js<br />
-    > TypeScript<br />
-    > React Native<br />
-    > Next.js<br />
-  </strong><br />
-  👴  Legacy Skills: Bootstrap, JQuery
-</p>
+---
 
-<p align="left">
-  💼 I work as System Analyst with Next.js in the company, moreover, SQL and AdvPL (it's an ERP TOTVS Protheus internal language inspired on Clipper); <br />
-  🔥 Fun fact: I'm also a Brazilian Military Firefighter.
-</p>
+### 🚀 About Me
 
-<div>
-  <a href="https://www.github.com/dev-nilo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nilo&layout=compact&langs_count=16&theme=dark" />
+I'm a passionate Front-end Developer with strong focus on performance, scalability, and developer experience. Currently working with **Next.js**, **React**, and **SQL** at an enterprise level. I also work with **TOTVS Protheus**, using **AdvPL**, a Clipper-inspired ERP language.
+
+When I'm not coding, I’m saving lives – literally! 🧯🔥
+
+---
+
+### 🧰 Tech Stack
+
+#### 🏆 Main Skills
+
+- **Frameworks & Libraries**: React.js, Next.js, WordPress  
+- **Languages**: TypeScript, JavaScript  
+- **Build Tools & Bundlers**: Vite, Webpack  
+- **APIs**: REST  
+- **Databases**: MySQL, PostgreSQL  
+- **CI/CD**: GitHub Actions, Vercel  
+- **Cloud**: AWS  
+- **Forms & Validation**: React Hook Form  
+- **UI & Styling**: Tailwind CSS, Shadcn UI  
+- **Testing**: Jest  
+- **Design**: Figma, Photoshop, Illustrator  
+
+#### 📚 Currently Learning
+
+- Node.js  
+- React Native  
+- Next.js (Advanced)  
+- TypeScript (Deep dive)
+
+#### 👴 Legacy Stack
+
+- Bootstrap  
+- JQuery  
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/dev-nilo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nilo&layout=compact&langs_count=10&theme=tokyonight" />
   </a>
 </div>
-<br>
-<div style="display: inline-block">
-  <img align="center" alt="Figma-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="html-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-  <img align="center" alt="Tailwind-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="JS-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TS-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="React-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="React-Nilo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> 
+
+---
+
+### 🧩 Tools I Use
+
+<div style="display: flex" align="center">
+  <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Tailwind" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="JS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="TS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Portfolio (soon)]()  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dev-nilo)  
+- 🧠 [GitHub](https://github.com/dev-nilo)  
