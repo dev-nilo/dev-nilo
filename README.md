@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate Front-end Developer with strong focus on performance, scalability, and developer experience. Currently working with **Next.js**, **React**, and **SQL** at an enterprise level. I also work with **TOTVS Protheus**, using **AdvPL**, a Clipper-inspired ERP language.
+I'm a passionate Front-end Developer with strong focus on performance, scalability, and developer experience. Currently working with **Next.js**, **React**, and **TOTVS RM** (ERP System) at an enterprise level.
 
 When I'm not coding, I’m saving lives – literally! 🧯🔥
 
