@@ -64,11 +64,6 @@ When I'm not coding, I’m saving lives – literally! 🧯🔥
   <img alt="TS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Nodejs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  
-  <i class="devicon-nodejs-plain-wordmark"></i>
-                  
-          
-  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/nodejs-original.svg" />
   <img alt="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
