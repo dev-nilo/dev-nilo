@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate Front-end Developer with strong focus on performance, scalability, and developer experience. Currently working with **Next.js**, **React**, and **TOTVS RM** (ERP System) at an enterprise level.
+Front-end Developer with strong focus on performance, scalability and developer experience. Currently working with **Next.js**, **React**, and **TOTVS RM** (ERP System) at an enterprise level.
 
 When I'm not coding, I’m saving lives – literally! 🧯🔥
 
@@ -18,7 +18,7 @@ When I'm not coding, I’m saving lives – literally! 🧯🔥
 
 #### 🏆 Main Skills
 
-- **Frameworks & Libraries**: React.js, Next.js, WordPress  
+- **Frameworks & Libraries**: React.js, Next.js  
 - **Languages**: TypeScript, JavaScript  
 - **Build Tools & Bundlers**: Vite, Webpack  
 - **APIs**: REST  
@@ -28,7 +28,7 @@ When I'm not coding, I’m saving lives – literally! 🧯🔥
 - **Forms & Validation**: React Hook Form  
 - **UI & Styling**: Tailwind CSS, Shadcn UI  
 - **Testing**: Jest  
-- **Design**: Figma, Photoshop, Illustrator  
+- **Design**: Figma, Photoshop, Illustrator, WordPress  
 
 #### 📚 Currently Learning
 
