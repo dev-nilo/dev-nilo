@@ -42,7 +42,6 @@
 - **Forms**: React Hook Form
 - **Testing**: Jest
 - **CI/CD**: GitHub Actions, Vercel
-- **Databases**: MySQL, PostgreSQL
 - **Design Tools**: Figma, Photoshop, Illustrator, WordPress
 
 #### 📚 Currently Learning
@@ -51,6 +50,8 @@
 - **Advanced TypeScript Patterns**
 - **Scalable Architectures** in Next.js
 - **Cloud**: AWS (EC2, S3)
+- **Databases**: MySQL, PostgreSQL
+- **Containerization**: Docker
 
 #### 🕰️ Legacy Tools
 - Bootstrap, JQuery
