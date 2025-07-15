@@ -54,3 +54,14 @@
 
 #### 🕰️ Legacy Tools
 - Bootstrap, JQuery
+
+---
+
+### 📫 Let's Connect
+
+
+- 🌐 [Portfolio (soon)]()  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dev-nilo)  
+
+- 🧠 [GitHub](https://github.com/dev-nilo)  
