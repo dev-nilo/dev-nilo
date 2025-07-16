@@ -4,16 +4,16 @@
   💻 System Analyst · 🧠 Front-end Developer (React & Next.js) · 🚒 Brazilian Military Firefighter
 </p>
 
----
+<br/>
 
-<h2 align="center">🚀 About Me</h2>
+<h3 align="center">🚀 About Me</h3>
 <p align="center">
-  I'm a Front-end Developer and System Analyst specializing in <strong>Next.js</strong>, <strong>React</strong>, and <strong>enterprise web applications</strong> built on <strong>TOTVS RM</strong> (ERP). <br/>
-  Passionate about performance, scalability, and delivering great developer experiences. <br/>
+  Specializing in <strong>Next.js</strong>, <strong>React</strong> and <strong>enterprise web applications</strong> built on <strong>TOTVS RM</strong> (ERP). <br/>
+  Focusing on performance, scalability, and delivering great developer experiences. <br/>
   When I’m not coding, I’m saving lives – literally! 🧯🔥
 </p>
 
----
+<br/><br/>
 
 <h3 align="center">🏆 Main Tech Stack</h3>
 <p align="center">
@@ -29,40 +29,40 @@
   </a>
 </p>
 
----
+<br/><br/>
 
 ### 🛠️ Technical Summary
 
-#### 🏆 Main Skills
-- **Front-end**: React.js, Next.js (Pages & App Router)
-- **Languages**: TypeScript, JavaScript (ES6+)
-- **Bundlers**: Vite, Webpack
-- **API**: RESTful Services (Fetch, Axios)
-- **Styling**: Tailwind CSS, Shadcn UI, CSS Modules
-- **Forms**: React Hook Form
-- **Testing**: Jest
-- **CI/CD**: GitHub Actions, Vercel
-- **Design Tools**: Figma, Photoshop, Illustrator, WordPress
-
-#### 📚 Currently Learning
-- **Fullstack JavaScript** with Node.js
-- **Mobile Apps** using React Native
-- **Advanced TypeScript Patterns**
-- **Scalable Architectures** in Next.js
-- **Cloud**: AWS (EC2, S3)
-- **Databases**: MySQL, PostgreSQL
+#### 🏆 Front-End Knowledge
+- **Basics**: HTML, CSS, JavaScript (ES6+)
+- **Version Control**: Git & GitHub
+- **Package Management**: npm, yarn
+- **Libraries**: React
+- **CSS Frameworks**: Tailwind CSS, Shadcn UI
+- **Module Bundlers**: Vite, Webpack
+- **Testing**: Jest, Playwright
+- **Typing**: TypeScript
+- **Frameworks (SSR/SPA)**: Next.js, Astro
 - **Containerization**: Docker
 
-#### 🕰️ Legacy Tools
+#### 🏆 Back-End Knowledge
+- **Runtime**: Node.js
+- **Databases**: PostgreSQL, MySQL, SQLite
+- **APIs**: REST, JSON APIs
+- **CI/CD**: GitHub Actions, Vercel
+- **Cloud**: AWS (EC2, S3)
+
+#### 🏆 Extra Knowledge
+- **Design Tools**: Figma, Photoshop, Illustrator, WordPress
+- **Agile Methodologies**: Scrum, Kanban
+
+#### 🕰️ Legacy Stack
 - Bootstrap, JQuery
 
 ---
 
 ### 📫 Let's Connect
 
-
-- 🌐 [Portfolio (soon)]()  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/dev-nilo)  
-
-- 🧠 [GitHub](https://github.com/dev-nilo)  
+- 🌐 **Portfolio**: *(Coming soon)*  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/dev-nilo)  
+- 🧠 [**GitHub**](https://github.com/dev-nilo)
