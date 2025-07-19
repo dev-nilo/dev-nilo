@@ -4,15 +4,6 @@
   💻 System Analyst · 🧠 Front-end Developer (React & Next.js) · 🚒 Brazilian Military Firefighter
 </p>
 
-<br/>
-
-<h3 align="center">🚀 About Me</h3>
-<p align="center">
-  Specializing in <strong>Next.js</strong>, <strong>React</strong> and <strong>enterprise web applications</strong> built on <strong>TOTVS RM</strong> (ERP). <br/>
-  Focusing on performance, scalability, and delivering great developer experiences. <br/>
-  When I’m not coding, I’m saving lives – literally! 🧯🔥
-</p>
-
 <br/><br/>
 
 <h3 align="center">🏆 Main Tech Stack</h3>
