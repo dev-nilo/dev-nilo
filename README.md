@@ -31,9 +31,9 @@
 - **Libraries**: React
 - **CSS Frameworks**: Tailwind CSS, Shadcn UI
 - **Module Bundlers**: Vite, Webpack
-- **Testing**: Jest, Playwright
+- **Testing**: Jest
 - **Typing**: TypeScript
-- **Frameworks (SSR/SPA)**: Next.js, Astro
+- **Frameworks (SSR/SPA)**: Next.js
 - **Containerization**: Docker
 
 #### 🏆 Back-End Knowledge
