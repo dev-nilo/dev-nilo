@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nilo Venturin</h1>
 
 <p align="center">
-  💻 System Analyst · 🧠 Front-end Developer (React & Next.js) · 🚒 Brazilian Military Firefighter
+  💻 System Analyst · 🧠 Software Engineer (React & Next.js) · 🚒 Brazilian Military Firefighter
 </p>
 
 <br/><br/>
