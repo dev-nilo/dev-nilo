@@ -29,12 +29,11 @@
 - **Version Control**: Git & GitHub
 - **Package Management**: npm, yarn
 - **Libraries**: React
-- **CSS Frameworks**: Tailwind CSS, Shadcn UI
+- **CSS Frameworks**: TailwindCSS, Shadcn UI
 - **Module Bundlers**: Vite, Webpack
 - **Testing**: Jest
 - **Typing**: TypeScript
 - **Frameworks (SSR/SPA)**: Next.js
-- **Containerization**: Docker
 
 #### 🏆 Back-End Knowledge
 - **Runtime**: Node.js
@@ -42,9 +41,10 @@
 - **APIs**: REST, JSON APIs
 - **CI/CD**: GitHub Actions, Vercel
 - **Cloud**: AWS (EC2, S3)
+- **Containerization**: Docker
 
 #### 🏆 Extra Knowledge
-- **Design Tools**: Figma, Photoshop, Illustrator, WordPress
+- **Design Tools**: Figma, Photoshop, WordPress
 - **Agile Methodologies**: Scrum, Kanban
 
 #### 🕰️ Legacy Stack
