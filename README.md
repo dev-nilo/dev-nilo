@@ -29,7 +29,7 @@
 - **Version Control**: Git & GitHub
 - **Package Management**: npm, yarn
 - **Libraries**: React
-- **CSS Frameworks**: TailwindCSS, Shadcn UI
+- **CSS Frameworks**: TailwindCSS, Shadcn UI, POUI, MagicUI
 - **Module Bundlers**: Vite, Webpack
 - **Testing**: Jest
 - **Typing**: TypeScript
