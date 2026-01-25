@@ -37,8 +37,8 @@
 
 #### 🏆 Back-End Knowledge
 - **Runtime**: Node.js
-- **Databases**: PostgreSQL, MySQL, SQLite
-- **APIs**: REST, JSON APIs
+- **Databases**: PostgreSQL, SQLite
+- **APIs**: REST
 - **CI/CD**: GitHub Actions, Vercel
 - **Cloud**: AWS (EC2, S3)
 - **Containerization**: Docker
