@@ -9,14 +9,14 @@
 <h3 align="center">🏆 Main Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,tailwind,github,git" alt="HTML, CSS, JavaScript, TypeScript, Node.js, React, Next.js, Tailwind CSS, GitHub, Git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,angular,react,next,tailwind,github,git" alt="HTML, CSS, JavaScript, TypeScript, Node.js, Angular, React, Next.js, Tailwind CSS, GitHub, Git" />
   </a>
 </p>
 
 <h3 align="center">📚 Currently Exploring</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,docker,aws" alt="PostgreSQL, Docker, AWS" />
+    <img src="https://skillicons.dev/icons?i=java,postgresql,docker,aws" alt="Java, SpringBoot, PostgreSQL, Docker, AWS" />
   </a>
 </p>
 
