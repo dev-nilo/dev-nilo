@@ -26,6 +26,7 @@
 
 - **[Squadra](https://squadra-eight.vercel.app)**: player cards and balanced team draws for pickup soccer. Next.js, TypeScript, Supabase with PostgreSQL row-level security. ([code](https://github.com/dev-nilo/nextjs-squadra))
 - **[SoD profile validator](https://sod-theta.vercel.app)**: reconciles TOTVS RM permission profiles using exact and fuzzy (Levenshtein) matching. Next.js, Drizzle ORM, PostgreSQL. ([code](https://github.com/dev-nilo/SoD))
+- **[Cat-modoro](https://cat-modoro.vercel.app)**: Pomodoro timer with a pixel-art cat drawn in code from palette-indexed grids, an always-on-top floating window and full keyboard support. Next.js, TypeScript, Vitest. ([code](https://github.com/dev-nilo/cat-modoro))
 - **[Pilares](https://cave-kappa-ten.vercel.app)**: offline-capable PWA journal with XP, streaks and a weekly heatmap. Next.js, TypeScript, hand-written SVG charts. ([code](https://github.com/dev-nilo/cave))
 
 ### 🛠️ Technical Summary
