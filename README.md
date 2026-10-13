@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nilo Venturin</h1>
 
 <p align="center">
-  💻 Fullstack Software Engineer
+  💻 Full-Stack Software Engineer
 </p>
 
 <br/><br/>
@@ -72,6 +72,6 @@
 
 ### 📫 Let's Connect
 
-- 🌐 **Portfolio**: *(Coming soon)* (https://github.com/dev-nilo/niloventurin)  
+- 🌐 [**Portfolio**](https://niloventurin.vercel.app)  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/niloventurin)  
 - 🧠 [**GitHub**](https://github.com/dev-nilo)
